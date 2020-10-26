@@ -28,7 +28,7 @@ Cons-
 None
 
 How can you download this github project?
-It's easy as cutting a piece of cake,just hit on the "download zip" button or "clone" the project then and you are all good to go!
+It's easy as cutting a piece of cake,just hit on the "download zip" button or "clone" the project and then you are all good to go!
 
 License?
 It's free for everyone to use this project,edit things,modify things and delete things,No Restriction!
